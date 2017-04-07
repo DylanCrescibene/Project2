@@ -1,0 +1,36 @@
+.jumbotron{
+  background-color:#3F51B5;
+}
+.navbar-custom{
+  background-color:#212121;
+  color:black;
+  margin-bottom: 0px;
+  border-bottom-color: rgb(57, 72, 158);
+  border-radius: 0px;
+}
+.navbar-toggle{
+  border-color: #333;
+}
+.navbar-toggle>.icon-bar{
+  background-color: white;
+}
+.navbar-brand,.navbar-nav>li>a{
+  color:#9d9d9d;
+}
+footer{
+  background-color: #F2F2F2;
+  color:#333;
+}
+.img-thumbnail{
+  width: 30%;
+  height: 30%;
+}
+.row{
+  margin-bottom: 20px;
+}
+.btn-circle {
+    font-weight: bold;
+    font-size: 12px;
+    padding: 6px 15px;
+    border-radius: 20px;
+}
